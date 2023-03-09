@@ -17,7 +17,7 @@ after
 		area(),
 		solid(),
 ```
-This fixed my problem for my character falling through. In the engineering design process I am creating a prototype its very early to call this the final product. The skill/skills I developed was how to read articles and growth mindset. I had to read the kaboom website to learn how to code with kaboom. I had  growth mindset because it took a lot of time and I didn't give up on fixing the problem and I failed multiple times.
+This fixed my problem for my character falling through. In the engineering design process I am creating a prototype its very early to call this the final product the next step to so be on test and evaluate the prototype. The skill/skills I developed was how to read articles and growth mindset. I had to read the kaboom website to learn how to code with kaboom. I had  growth mindset because it took a lot of time and I didn't give up on fixing the problem and I failed multiple times.
 
 
 
