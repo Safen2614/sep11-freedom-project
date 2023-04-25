@@ -98,6 +98,13 @@ go("game")
 now I thought "ok each time I lose, when I press my key it would restart the game. So I went back to Kaboom and trying to see if I can replace it with something else. I found `onMousePress()` so then I just replaces that with `onMousePress()`.
 
 
+## EPD
+On the engineering design process I am in between Test and evaluate the prototype and Improve as needed. I think that we should just be adding a little bit more and we'll be done but lets see what happends.
+
+## Skills
+I got better at these skill/skills and on one of them is communication as I needed to work with other people to make this project. I also got better at the Growth mindset because I had to fix an error for 2 hours.
+
+
 
 
 
