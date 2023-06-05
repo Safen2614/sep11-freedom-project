@@ -2,10 +2,10 @@
 by Safe Nasher
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about making something out of javascript. The purpose of this blog is to show my progress in making my project.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a platformer game where one of us is the main character and one of us is the enemy. This blog will walk through my process of independently studying kaboom in order to make my platformer game.
 
 ## Links
 
