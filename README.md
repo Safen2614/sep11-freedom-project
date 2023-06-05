@@ -8,6 +8,8 @@ The "Freedom Project" for SEP11 is all about making something out of javascript.
 For my project, I am making a platformer game where one of us is the main character and one of us is the enemy. This blog will walk through my process of independently studying kaboom in order to make my platformer game.
 
 ## Links
+[my slides](https://docs.google.com/presentation/d/1ZZ0VK8P2LVDCQJ6-0sR1UT9mkXsu97gXbbfTR0cba8E/edit#slide=id.p)
+[]()
 
 Product
 
