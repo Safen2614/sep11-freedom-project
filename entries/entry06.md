@@ -1,6 +1,6 @@
 # Entry 6
 ##### 6/5/2023.
-Sources: [my notes](https://docs.google.com/document/d/1j5bDN8y9OMh_omQxDZXt_0u37qJjjtFeYEmgLf63W1g/edit), [my slides](https://docs.google.com/presentation/d/1ZZ0VK8P2LVDCQJ6-0sR1UT9mkXsu97gXbbfTR0cba8E/edit#slide=id.p)
+Sources: [my notes](https://docs.google.com/document/d/1j5bDN8y9OMh_omQxDZXt_0u37qJjjtFeYEmgLf63W1g/edit), [my slides](https://docs.google.com/presentation/d/1ZZ0VK8P2LVDCQJ6-0sR1UT9mkXsu97gXbbfTR0cba8E/edit#slide=id.p),
 [my game](https://safen2614-organic-halibut-r9r75xjpv6347r-8080.preview.app.github.dev/projects/SUPER-SREACT-CODE-FOR-FREEDOME-PROJECT/INDEX.html)
 
 ## takeways
