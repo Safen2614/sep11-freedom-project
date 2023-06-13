@@ -12,6 +12,7 @@ For my project, I am making a platformer game where one of us is the main charac
 
 
 ## Implications
+my game connects people and they have fun together. It helps people relieve boredom. it connects people from all around the world from different cultures. Games have negative impact on the environment because it is estimated that 24 million metric tons of carbon emissions is made by games. But games also create jobs for people. It gain 74 billon revenue.
 
 
 ---
